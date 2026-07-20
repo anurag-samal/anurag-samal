@@ -22,9 +22,11 @@
 <br>
 
 <p align="start">
-  <img width="300" height="300" alt="ConfusedBlueCatGIF" src="https://github.com/user-attachments/assets/fb011cbb-6a40-43ec-88f9-cf607dc87217" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="303" height="303" alt="TheEngineer" src="engineer4.webp" />
+   <img width="300" height="300" alt="HappyCatGIFbyMESAMyEmotionalSupportAnimal" src="https://github.com/user-attachments/assets/a40d5f8c-515e-4244-a74f-b8e501e2442b" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="300" height="300" alt="ConfusedBlueCatGIF" src="https://github.com/user-attachments/assets/fb011cbb-6a40-43ec-88f9-cf607dc87217" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="303" height="303" alt="TheEngineer" src="engineer4.webp" />
 </p>
 
 
