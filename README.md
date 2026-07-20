@@ -10,7 +10,7 @@
 <br>
 
 <p>Solving problems is my gig, whether solving coding challenges in contests or solving real world problems. Having a engineering mindset let's me understand
-   the <strong>trade-offs</strong>of my approach / solution to that problem.</p>
+   the <strong>trade-offs</strong> of my approach / solution to that problem.</p>
 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- I value simple, intentional design over unnecessary complexity, basically a minimalist.<br>
