@@ -1,12 +1,20 @@
-# Hey there! 👋
+<h3>Hey there! <h3/>
 
-### I'm **Anurag**, a software engineer based in India.
+<h4>I'm Anurag, a software engineer based in India.</h4>
 
-<sub>
+<br>
 
-* 🧠 I enjoy understanding how things work and approaching problems from first principles.
-* ⚙️ I believe good engineering comes from thoughtful design, not unnecessary complexity.
-* 🏗️ I like building things from the ground up—understanding the **why** before the **how**.
-* 💡 I enjoy breaking down complex problems into simple, elegant, and practical solutions.
+<p>I enjoy understanding how things work before building them. Loves to question <strong>why</strong> before arriving at <strong>how</strong>
+   which helps me in unbounded thinking.</p>
+   
+<br>
 
-</sub>
+<p>Solving problems is my gig, whether solving coding challenges in contests or solving real world problems. Having a engineering mindset let's me understand
+   the <strong>trade-offs</strong>of my approach / solution to that problem.</p>
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- I value simple, intentional design over unnecessary complexity, basically a minimalist.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- I believe good engineering comes from thoughtful design, not unnecessary complexity.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Most of my time is spent learning, building, and solving problems.
+
+
