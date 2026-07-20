@@ -16,5 +16,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- I value simple, intentional design over unnecessary complexity, basically a minimalist.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- I believe good engineering comes from thoughtful design, not unnecessary complexity.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Most of my time is spent learning, building, and solving problems.
+<br>
+<br>
+<br>
+<br>
+<img width="300" height="300" alt="ConfusedBlueCatGIF" src="https://github.com/user-attachments/assets/fb011cbb-6a40-43ec-88f9-cf607dc87217" />
 
 
