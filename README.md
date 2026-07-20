@@ -18,13 +18,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Most of my time is spent learning, building, and solving problems.
 <br>
 <br>
-<br>
-<br>
-
-<p align="start">
-   <img width="300" height="300" alt="ConfusedBlueCatGIF" src="https://github.com/user-attachments/assets/fb011cbb-6a40-43ec-88f9-cf607dc87217" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="303" height="303" alt="TheEngineer" src="engineer4.webp" />
-</p>
 
 
