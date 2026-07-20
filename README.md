@@ -1,4 +1,4 @@
-# Hey there! <img width="500" height="500" alt="HappyCatGIFbyMESAMyEmotionalSupportAnimal" src="https://github.com/user-attachments/assets/93195faf-0ed7-4643-9f46-f3cc6260240f" />
+# Hey there! <img width="50" height="50" alt="HappyCatGIFbyMESAMyEmotionalSupportAnimal" src="https://github.com/user-attachments/assets/93195faf-0ed7-4643-9f46-f3cc6260240f" />
 
 
 
